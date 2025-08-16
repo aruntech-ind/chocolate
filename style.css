@@ -1,0 +1,41 @@
+
+    nav{
+        background-color: black;
+        color: white;
+        padding: 20px;
+    }
+    h1{
+        display: inline;
+    }
+    ul{
+        display: inline;
+        margin-left: 67%;
+    }
+    li{
+        display: inline;
+    }
+input{
+    width: 60%;
+    padding: 10px;
+    margin-top: 20px;
+}
+.Searchbar{
+    padding: 10px;
+    text-align: center;
+}
+.bubbly{
+    width: 400px;
+
+}
+.para{
+    display: block;
+    text-align: center;
+}
+.aboutus{
+    text-align: center;
+}
+.Contactus{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
